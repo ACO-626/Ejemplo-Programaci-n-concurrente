@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo básico de Programación Concurrente", "Ejemplo básico de Programación Concurrente.csproj", "{34FB4967-A995-46B6-9BB0-BCD7A8CD3A2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FB4967-A995-46B6-9BB0-BCD7A8CD3A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FB4967-A995-46B6-9BB0-BCD7A8CD3A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FB4967-A995-46B6-9BB0-BCD7A8CD3A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FB4967-A995-46B6-9BB0-BCD7A8CD3A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93CEF41F-3DFE-4362-90A9-DA210A61B975}
+	EndGlobalSection
+EndGlobal
